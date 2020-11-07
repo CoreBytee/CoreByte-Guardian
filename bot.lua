@@ -4,6 +4,15 @@ local Client = Discordia.Client()
 
 _G.Client = Client
 
+local Handler = require("Command"):Init(Client)
+
+local PingCommand = Handler.New()
+PingCommand:SetName("ping")
+PingCommand:SetMinPerm("Owner")
+PingCommand:SetFunction(function(MSG, Args, Raw)
+    MSG:reply("Pong! <:hotcomputer:685867382073196712>")
+end)
+
 local http = require('http')
 
 http.createServer(function (req, res)

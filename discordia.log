@@ -5,6 +5,7 @@
 2020-11-07 15:20:11 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2020-11-07 15:20:11 | [INFO]    | Shard 0 : Received HELLO
 2020-11-07 15:20:12 | [INFO]    | Shard 0 : Received READY
+<<<<<<< Updated upstream
 2020-11-07 14:23:42 | [INFO]    | Discordia 2.8.4
 2020-11-07 14:23:42 | [INFO]    | Connecting to Discord...
 2020-11-07 14:23:42 | [INFO]    | Authenticated as CoreByte's Guardian#5106
@@ -12,3 +13,41 @@
 2020-11-07 14:23:42 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
 2020-11-07 14:23:42 | [INFO]    | Shard 0 : Received HELLO
 2020-11-07 14:23:42 | [INFO]    | Shard 0 : Received READY
+=======
+2020-11-07 15:41:06 | [INFO]    | Discordia 2.8.4
+2020-11-07 15:41:06 | [INFO]    | Connecting to Discord...
+2020-11-07 15:41:06 | [INFO]    | Authenticated as CoreGuardian#5106
+2020-11-07 15:41:06 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-07 15:41:07 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-07 15:41:07 | [INFO]    | Shard 0 : Received HELLO
+2020-11-07 15:41:07 | [INFO]    | Shard 0 : Received READY
+2020-11-07 15:45:46 | [INFO]    | Discordia 2.8.4
+2020-11-07 15:45:46 | [INFO]    | Connecting to Discord...
+2020-11-07 15:45:46 | [INFO]    | Authenticated as CoreGuardian#5106
+2020-11-07 15:45:46 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-07 15:45:46 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-07 15:45:46 | [INFO]    | Shard 0 : Received HELLO
+2020-11-07 15:45:46 | [INFO]    | Shard 0 : Received READY
+2020-11-07 15:48:44 | [INFO]    | Discordia 2.8.4
+2020-11-07 15:48:44 | [INFO]    | Connecting to Discord...
+2020-11-07 15:48:44 | [INFO]    | Authenticated as CoreGuardian#5106
+2020-11-07 15:48:44 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-07 15:48:44 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-07 15:48:44 | [INFO]    | Shard 0 : Received HELLO
+2020-11-07 15:48:45 | [INFO]    | Shard 0 : Received READY
+2020-11-07 15:54:07 | [INFO]    | Discordia 2.8.4
+2020-11-07 15:54:07 | [INFO]    | Connecting to Discord...
+2020-11-07 15:54:07 | [INFO]    | Authenticated as CoreGuardian#5106
+2020-11-07 15:54:07 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-07 15:54:08 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-07 15:54:08 | [INFO]    | Shard 0 : Received HELLO
+2020-11-07 15:54:08 | [INFO]    | Shard 0 : Received READY
+2020-11-07 15:54:21 | [INFO]    | Discordia 2.8.4
+2020-11-07 15:54:21 | [INFO]    | Connecting to Discord...
+2020-11-07 15:54:21 | [INFO]    | Authenticated as CoreGuardian#5106
+2020-11-07 15:54:21 | [INFO]    | Launching shard 0 (1 out of 1)...
+2020-11-07 15:54:21 | [INFO]    | Shard 0 : Connected to wss://gateway.discord.gg
+2020-11-07 15:54:21 | [INFO]    | Shard 0 : Received HELLO
+2020-11-07 15:54:22 | [INFO]    | Shard 0 : Received READY
+2020-11-07 16:06:19 | [WARNING] | Shard 0 : Unhandled gateway event: INTEGRATION_CREATE
+>>>>>>> Stashed changes
